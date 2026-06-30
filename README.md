@@ -110,3 +110,12 @@ The following command must run in Command Prompt or terminal inside Visual Studi
 12. Run "npm install @react-native-async-storage/async-storage@1.19.0 --force"
 
 13. run "npm install axios"
+
+====================Download & Installation====================
+1. Click the green box "Code" at the top right.
+
+2. Click download .ZIP
+
+3. Extract the .ZIP file
+
+4. paste the files in side the extracted folder into MyApp's Directory.
