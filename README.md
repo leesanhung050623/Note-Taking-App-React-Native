@@ -118,4 +118,4 @@ The following command must run in Command Prompt or terminal inside Visual Studi
 
 3. Extract the .ZIP file
 
-4. paste the files in side the extracted folder into MyApp's Directory.
+4. Paste the files inside the extracted folder into MyApp's Directory.
