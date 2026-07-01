@@ -119,3 +119,7 @@ The following command must run in Command Prompt or terminal inside Visual Studi
 3. Extract the .ZIP file
 
 4. Paste the files inside the extracted folder into MyApp's Directory.
+   Example: "C:\Users\[Your Username]\MyApp"
+
+5.Open visual studio run the following command 
+	"npx react-native run-android"
